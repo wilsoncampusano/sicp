@@ -1,0 +1,4 @@
+
+
+
+(factorial 6)
